@@ -111,10 +111,11 @@ quantity INTEGER
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```bash
+ 
+```bash
 git clone https://github.com/arush1705/zepto-SQL-data-analysis-project.git
 cd zepto-SQL-data-analysis-project
-
+```
    ```
 2. **Open zepto_SQL_data_analysis.sql**
 
